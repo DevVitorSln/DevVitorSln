@@ -22,9 +22,3 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vitor-soares)
 <a href = "mailto:vitorsln.soares@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vitor.sln)
-
-<div align="">
-
-  ![Snake animation](https://github.com/DevVitorSln/DevVitorSln/blob/output/github-contribution-grid-snake.svg)  
-
-  </div>
